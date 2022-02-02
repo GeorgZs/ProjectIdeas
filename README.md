@@ -8,4 +8,4 @@ Requirements:
 - Caterer App
 - DB for orders
 - Possible HTTP server to handle requests
-<br>*more planned for later*
+<br><br>*more planned for later*
